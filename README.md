@@ -9,8 +9,8 @@ Este proyecto es una solución integral de **Business Intelligence** diseñada p
 * **Análisis de Datos:** DAX (Creación de medidas de eficiencia y comparativas).
 * **Visualización:** Power BI (Diseño de interfaz de usuario con enfoque en software industrial).
 
-## 📊 Vista Previa del Dashboard
-
+## Vista Previa del Dashboard
+dashboard_final.png
 
 ## Hallazgos e Insights Clave
 A través del análisis realizado, se identificaron los siguientes puntos críticos:

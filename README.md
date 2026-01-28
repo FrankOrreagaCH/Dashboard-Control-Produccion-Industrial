@@ -10,7 +10,7 @@ Este proyecto es una solución integral de **Business Intelligence** diseñada p
 * **Visualización:** Power BI (Diseño de interfaz de usuario con enfoque en software industrial).
 
 ## Vista Previa del Dashboard
-dashboard_final.png
+![Dashboard Final](dashboard_final.png)
 
 ## Hallazgos e Insights Clave
 A través del análisis realizado, se identificaron los siguientes puntos críticos:
